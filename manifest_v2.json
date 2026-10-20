@@ -1,0 +1,64 @@
+{
+  "item": {
+    "id": "979854263794",
+    "restype": "watchface",
+    "name": "时序彩环",
+    "description": "极简数字竞速风格表盘，超大粗体时间数字一眼可读。心率、电量、公历日期、农历、天气、步数信息一站式展示。黑底低功耗设计，多套色彩主题自由切换，信息排布紧凑清晰，运动日常皆适配。\n官方交流群876535695",
+    "preview": [
+      "media/表盘介绍与海报生成 (1)-09.png",
+      "media/表盘介绍与海报生成 (1)-11.png"
+    ],
+    "icon": "media/表盘介绍与海报生成 (1)-10.png",
+    "cover": "media/表盘介绍与海报生成 (1)-09.png",
+    "author": [
+      {
+        "name": "bandbbs_73445",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "官方群",
+      "url": "https://qm.qq.com/q/lHCW3WJkgU",
+      "icon": "chats-circle"
+    },
+    {
+      "title": "爱发电支持我",
+      "url": "https://afdian.com/a/L204387260",
+      "icon": "link-simple"
+    }
+  ],
+  "downloads": {
+    "xmb9": {
+      "version": "1.0.0",
+      "file_name": "downloads/时序彩环小米手环9-10.bin",
+      "versionCode": 65536
+    },
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "downloads/时序彩环小米手环9-10.bin",
+      "versionCode": 65536
+    },
+    "xmb11": {
+      "version": "1.0.0",
+      "file_name": "downloads/时序彩环小米手环11.bin",
+      "versionCode": 65536
+    },
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/时序彩环小米手环11.bin",
+      "versionCode": 65536
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/时序彩环小米手环9-10.bin",
+      "versionCode": 65536
+    }
+  },
+  "ext": {
+    "wallpaperGenerator": {
+      "configUrl": "https://raw.githubusercontent.com/AuthorMaoKe/astrobox-resource-979854263794/main/wallpaper/wallpaper.json"
+    }
+  }
+}
