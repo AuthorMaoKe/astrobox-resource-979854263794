@@ -32,33 +32,29 @@
   "downloads": {
     "xmb9": {
       "version": "1.0.0",
-      "file_name": "downloads/时序彩环小米手环9-10.bin",
+      "file_name": "downloads/时序彩环小米手环9.bin",
       "versionCode": 65536
     },
     "xmb10": {
       "version": "1.0.0",
-      "file_name": "downloads/时序彩环小米手环9-10.bin",
+      "file_name": "downloads/时序彩环小米手环10-11.bin",
       "versionCode": 65536
     },
     "xmb11": {
       "version": "1.0.0",
-      "file_name": "downloads/时序彩环小米手环11.bin",
-      "versionCode": 65536
-    },
-    "xmb11nfc": {
-      "version": "1.0.0",
-      "file_name": "downloads/时序彩环小米手环11.bin",
+      "file_name": "downloads/时序彩环小米手环10-11.bin",
       "versionCode": 65536
     },
     "xmb10nfc": {
       "version": "1.0.0",
-      "file_name": "downloads/时序彩环小米手环9-10.bin",
+      "file_name": "downloads/时序彩环小米手环10-11.bin",
+      "versionCode": 65536
+    },
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/时序彩环小米手环10-11.bin",
       "versionCode": 65536
     }
   },
-  "ext": {
-    "wallpaperGenerator": {
-      "configUrl": "https://raw.githubusercontent.com/AuthorMaoKe/astrobox-resource-979854263794/main/wallpaper/wallpaper.json"
-    }
-  }
+  "ext": {}
 }
